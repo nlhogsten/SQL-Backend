@@ -35,13 +35,4 @@
 
 [![Screenshot-2023-09-25-213741.png](https://i.postimg.cc/NjvG7YfW/Screenshot-2023-09-25-213741.png)](https://postimg.cc/yknzsMRP)
 
-<br>
-  <h2>Results</h2>
 
-  <p>The dashboards provide Ben with valuable insights into his business performance. He can use these insights to make informed decisions about things like pricing, staffing, and inventory management.</p>
-<br>
-  <h2>Conclusions</h2>
-
-  <p>This data analyst portfolio project demonstrates the ability to design a relational database, develop SQL queries to analyze the data and create dashboards to visualize the insights. The project can be used as a template for other data analysts working on similar projects.
-  <br>
-  <a href="https://lookerstudio.google.com/reporting/90a15bfe-f92b-4fb3-8c63-874b5ca953ca">Access the Dashboard Report</a></p>
